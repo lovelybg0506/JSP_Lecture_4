@@ -7,6 +7,7 @@
     <title>01_setCookies</title>
   </head>
   <body>
+  <%-- 04 --%>
 <%
   Cookie c=new Cookie("id","pinksung");
   c.setMaxAge(365*24*60*60);
